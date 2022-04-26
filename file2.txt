@@ -1,1 +1,2 @@
 the code has been write on file2
+the new code has been addeD
